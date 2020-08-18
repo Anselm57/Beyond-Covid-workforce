@@ -64,6 +64,7 @@ body {
   font-family: "Helvetica Neue","Open Sans",Arial,sans-serif;
 }
 
+
 a {
   color: #2ca8ff;
 }
@@ -1531,7 +1532,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
         right: 0px;
     }
     .main .container{
-        margin-bottom: 50px;
+        margin-bottom: 20px;
     }
     #video_background{
         display: none;
@@ -1650,7 +1651,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
     text-align: center;
   }
   .landing-page .navbar-top{
-    background: rgba(0, 0, 0, 0.75);
+    background: rgba(22, 20, 20, 0.75);
   }
   .landing-page .parallax {
     height: 550px;
